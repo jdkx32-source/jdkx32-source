@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jdkx32-source
+- 🌱 I’m currently learning Web Developing
+- 📫 You can reach me via Discord: jdkx32#1735
