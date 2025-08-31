@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl0dDdndzN3aXpmODd0MXF0OTlvNTM0cXhheDFocWphcXdpYWJqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13CoXDiaCcCoyk/giphy.gif" width="200" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl0dDdndzN3aXpmODd0MXF0OTlvNTM0cXhheDFocWphcXdpYWJqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13CoXDiaCcCoyk/giphy.gif" width="300" />
 </p>
 
 <h1 align="center">Moin, ich bin <a href="https://github.com/jdkx32" target="_blank">jdkx32</a> 👋</h1>
