@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl0dDdndzN3aXpmODd0MXF0OTlvNTM0cXhheDFocWphcXdpYWJqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13CoXDiaCcCoyk/giphy.gif" width="300" />
 </p>
 
-<h1 align="center">Moin, ich bin <a href="https://github.com/jdkx32" target="_blank">jdkx32</a> 👋</h1>
+<h1 align="center">Moin, ich bin <a href="https://github.com/jdkx32-source" target="_blank">jdkx32</a> 👋</h1>
 
 <p align="center">
   <b>Entwickler & Experimentierer</b>
@@ -41,8 +41,8 @@ Ich arbeite seit 2018 an vielfältigen Projekten und habe Expertise in den folge
 ## GitHub-Aktivität
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jdkx32&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="jdkx32's GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdkx32&layout=compact&langs_count=8&theme=tokyonight" alt="jdkx32's Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jdkx32-source&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="jdkx32's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdkx32-source&layout=compact&langs_count=8&theme=tokyonight" alt="jdkx32's Top Languages" width="49%"/>
 </p>
 
 ---
