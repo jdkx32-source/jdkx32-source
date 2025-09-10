@@ -30,7 +30,7 @@ Ich arbeite seit 2018 an vielfältigen Projekten und habe Expertise in den folge
 
 <p align="center">
   <b>Sprachen</b><br>
-  <img src="https://skillicons.dev/icons?i=java,python,lua,js,css,html" /><br><br>
+  <img src="https://skillicons.dev/icons?i=java,python,lua,js,css,html,go" /><br><br>
   <b>Frameworks & Libraries</b><br>
   <img src="https://skillicons.dev/icons?i=tailwind,nodejs,react" /><br><br> <b>Tools & Plattformen</b><br>
   <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode" />
